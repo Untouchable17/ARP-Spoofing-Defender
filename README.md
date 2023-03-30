@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="https://github.com/Untouchable17/ARP-Spoofing-Defender">
-        <img src="https://ibb.co/7tgkqpX" width="700">
+        <img src="https://i.ibb.co/v4sXSdH/xyu-sosi-pidar.png" width="700">
     </a>
 </h1>
 
