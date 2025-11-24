@@ -65,7 +65,6 @@ pkill -HUP notification-daemon
 # Contact Developer
 
 
-    Telegram:           @secdet17
-    Group:              t.me/secdet_team
+    Telegram:           t.me/initial_persistence
     Email:              tylerblackout17@gmail.com
 
